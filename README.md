@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashutosh-developer
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ashutosh.developer01@gmai.com
 
 <!---
