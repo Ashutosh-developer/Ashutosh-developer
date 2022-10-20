@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashutosh-developer
+- 👋 Hi, I’m @Ashutosh_developer
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning web dev
 - 📫 How to reach me ashutosh.developer01@gmai.com
